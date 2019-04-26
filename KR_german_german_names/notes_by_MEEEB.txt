@@ -1,0 +1,41 @@
+If this is all on one line, blame Windows.
+### notes
+### by MEEEB
+### v1
+
+Hello reader!
+
+This document gives a quick rundown on sources, files, and other things.
+
+
+Sources:
+
+My brain.
+The KR wiki: https://kaiserreich.fandom.com/wiki/The_Kaiserreich_Wiki
+Wikipedia: https://www.wikipedia.org/
+
+
+General notes:
+
+This mod replaces some of KR's country names, specifically those of German countries,
+with their actual (and/or guessed) German names.
+For example: German Empire --> Deutsches Reich
+
+
+Files added:
+
+/localisation/replace/KR_german_german_names_l_english.yml
+/logo.png
+/notes_by_MEEEB.txt (this document)
+
+
+Dev notes:
+
+I will probably need to modify this mod a bit.
+For example, I need to find out which Swiss cosmetic tag turns Switzerland French,
+and act accordingly.
+
+But it's good enough for now.
+
+
+ - MEEEB
