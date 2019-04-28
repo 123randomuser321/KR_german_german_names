@@ -1,6 +1,8 @@
 ﻿### loc for 'Actual German names for German countries in Kaiserreich'
 ### by MEEEB
-### v1
+### v1 rev1
+### Added GAL, HUN and ILL
+### Added another policy note
 
 l_english:
 
@@ -16,6 +18,8 @@ l_english:
 
 ### Lithuania and White Ruthenia, although they list German as an official language, will not be included.
 ### If necessary, the dimension of the name on the map is ignored.
+### Some countries do not have enough content to actually make reasonable changes to, e.g. Illyria,
+### so I'll just try to wing them.
 
 
 ### From KR_Countries_l_english.yml
@@ -147,6 +151,39 @@ DDR_paternal_autocrat_DEF:0 "Prussia"
 DDR_national_populist:0 "Preußen"
 DDR_national_populist_ADJ:0 "Prussian"
 DDR_national_populist_DEF:0 "Prussia"
+
+# Galicia-Lodomeria (GAL)
+# Only the names that make sense were changed, see CZE_habsburg
+GAL_totalist:0 "Union of Galicia-Lodomeria"
+GAL_totalist_ADJ:0 "Galician"
+GAL_totalist_DEF:0 "the Union of Galicia-Lodomeria"
+GAL_syndicalist:0 "Union of Galicia-Lodomeria"
+GAL_syndicalist_ADJ:0 "Galician"
+GAL_syndicalist_DEF:0 "the Union of Galicia-Lodomeria"
+GAL_radical_socialist:0 "Union of Galicia-Lodomeria"
+GAL_radical_socialist_ADJ:0 "Galician"
+GAL_radical_socialist_DEF:0 "the Union of Galicia-Lodomeria"
+GAL_social_democrat:0 "Galicia-Lodomerian Republic"
+GAL_social_democrat_ADJ:0 "Galician"
+GAL_social_democrat_DEF:0 "the Galicia-Lodomerian Republic"
+GAL_social_liberal:0 "Galizien-Lodomerien"
+GAL_social_liberal_ADJ:0 "Galician"
+GAL_social_liberal_DEF:0 "Galicia-Lodomeria"
+GAL_market_liberal:0 "Galizien-Lodomerien"
+GAL_market_liberal_ADJ:0 "Galician"
+GAL_market_liberal_DEF:0 "Galicia-Lodomeria"
+GAL_social_conservative:0 "Galizien-Lodomerien"
+GAL_social_conservative_ADJ:0 "Galician"
+GAL_social_conservative_DEF:0 "Galicia-Lodomeria"
+GAL_authoritarian_democrat:0 "Galizien-Lodomerien"
+GAL_authoritarian_democrat_ADJ:0 "Galician"
+GAL_authoritarian_democrat_DEF:0 "Galicia-Lodomeria"
+GAL_paternal_autocrat:0 "Galizien-Lodomerien"
+GAL_paternal_autocrat_ADJ:0 "Galician"
+GAL_paternal_autocrat_DEF:0 "Galicia-Lodomeria"
+GAL_national_populist:0 "Galizien-Lodomerien"
+GAL_national_populist_ADJ:0 "Galician"
+GAL_national_populist_DEF:0 "Galicia-Lodomeria"
 
 # German East Asia (GEA)
 GEA_totalist:0 "Deutsch-Ostasien"
@@ -280,6 +317,39 @@ GRU_paternal_autocrat_DEF:0 "the German Union"
 GRU_national_populist:0 "Deutsche Union"
 GRU_national_populist_ADJ:0 "German"
 GRU_national_populist_DEF:0 "the German Union"
+
+# Hungary (HUN)
+# Again, only logical edits, see CZE_habsburg and GAL
+HUN_totalist:0 "Hungarian Socialist Republic"
+HUN_totalist_ADJ:0 "Socialist-Hungarian"
+HUN_totalist_DEF:0 "the Hungarian Socialist Republic"
+HUN_syndicalist:0 "Hungarian Socialist Republic"
+HUN_syndicalist_ADJ:0 "Socialist-Hungarian"
+HUN_syndicalist_DEF:0 "the Hungarian Socialist Republic"
+HUN_radical_socialist:0 "Hungarian Socialist Republic"
+HUN_radical_socialist_ADJ:0 "Socialist-Hungarian"
+HUN_radical_socialist_DEF:0 "Hungarian Socialist Republic"
+HUN_social_democrat:0 "Hungary"
+HUN_social_democrat_ADJ:0 "Hungarian"
+HUN_social_democrat_DEF:0 "Hungary"
+HUN_social_liberal:0 "Hungarian Republic"
+HUN_social_liberal_ADJ:0 "Hungarian"
+HUN_social_liberal_DEF:0 "the Hungarian Republic"
+HUN_market_liberal:0 "Hungarian Republic"
+HUN_market_liberal_ADJ:0 "Hungarian"
+HUN_market_liberal_DEF:0 "Hungarian Republic"
+HUN_social_conservative:0 "Hungary"
+HUN_social_conservative_ADJ:0 "Hungarian"
+HUN_social_conservative_DEF:0 "Hungary"
+HUN_authoritarian_democrat:0 "Königreich Ungarn"
+HUN_authoritarian_democrat_ADJ:0 "Hungarian"
+HUN_authoritarian_democrat_DEF:0 "the Kingdom of Hungary"
+HUN_paternal_autocrat:0 "Königreich Ungarn"
+HUN_paternal_autocrat_ADJ:0 "Hungarian"
+HUN_paternal_autocrat_DEF:0 "the Kingdom of Hungary"
+HUN_national_populist:0 "Königreich Ungarn"
+HUN_national_populist_ADJ:0 "Hungarian"
+HUN_national_populist_DEF:0 "the Kingdom of Hungary"
 
 # Mittelafrika (MAF)
 # The wiki still lists it as 'Deutsch-Mittelafrika', but the loc file doesn't, so I won't touch that.
@@ -591,6 +661,39 @@ BAT_FED_syndicalist_DEF:0 "the Baltic Federation"
 BAT_FED_totalist:0 "Baltische Föderation"
 BAT_FED_totalist_ADJ:0 "Baltic"
 BAT_FED_totalist_DEF:0 "the Baltic Federation"
+
+# Illyria (ILL)
+# While Illyria's base tag is CRO, it seems to use this cosmetic one from the start.
+ILL_totalist:0 "Socialist Republic of Illyria"
+ILL_totalist_ADJ:0 "Illyrian"
+ILL_totalist_DEF:0 "the Socialist Republic of Illyria"
+ILL_syndicalist:0 "Socialist Republic of Illyria"
+ILL_syndicalist_ADJ:0 "Illyrian"
+ILL_syndicalist_DEF:0 "Socialist Republic of Illyria"
+ILL_radical_socialist:0 "Socialist Republic of Illyria"
+ILL_radical_socialist_ADJ:0 "Illyrian"
+ILL_radical_socialist_DEF:0 "the Socialist Republic of Illyria"
+ILL_social_democrat:0 "Illyrien"
+ILL_social_democrat_ADJ:0 "Illyrian"
+ILL_social_democrat_DEF:0 "Illyria"
+ILL_social_liberal:0 "Illyrien"
+ILL_social_liberal_ADJ:0 "Illyrian"
+ILL_social_liberal_DEF:0 "Illyria"
+ILL_market_liberal:0 "Illyrien"
+ILL_market_liberal_ADJ:0 "Illyrian"
+ILL_market_liberal_DEF:0 "Illyria"
+ILL_social_conservative:0 "Illyrien"
+ILL_social_conservative_ADJ:0 "Illyrian"
+ILL_social_conservative_DEF:0 "Illyria"
+ILL_authoritarian_democrat:0 "Illyrien"
+ILL_authoritarian_democrat_ADJ:0 "Illyrian"
+ILL_authoritarian_democrat_DEF:0 "Illyria"
+ILL_paternal_autocrat:0 "Illyrien"
+ILL_paternal_autocrat_ADJ:0 "Illyrian"
+ILL_paternal_autocrat_DEF:0 "Illyria"
+ILL_national_populist:0 "Illyrien"
+ILL_national_populist_ADJ:0 "Illyrian"
+ILL_national_populist_DEF:0 "Illyria"
 
 # Duchy of Holstein (DHO)
 DHO_authoritarian_democrat:0 "Herzogtum Holstein"
