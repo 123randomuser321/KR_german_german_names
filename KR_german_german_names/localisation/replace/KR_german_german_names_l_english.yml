@@ -1,8 +1,7 @@
 ﻿### loc for 'Actual German names for German countries in Kaiserreich'
 ### by MEEEB
-### v1 rev1
-### Added GAL, HUN and ILL
-### Added another policy note
+### v1 rev2
+### and another policy note
 
 l_english:
 
@@ -15,6 +14,8 @@ l_english:
 ### since translating _DEF and _ADJ creates a horrendous state of language in events et al.
 ### Also, most names can be found in KR's official wiki:
 ### https://kaiserreich.fandom.com/wiki/The_Kaiserreich_Wiki
+
+### All credit for the actual tags, subideologies et al, including (not all) names of the countries goes to the KR team.
 
 ### Lithuania and White Ruthenia, although they list German as an official language, will not be included.
 ### If necessary, the dimension of the name on the map is ignored.
